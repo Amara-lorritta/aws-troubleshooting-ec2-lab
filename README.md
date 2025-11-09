@@ -1,6 +1,6 @@
 📘 Overview
 
-In this lab, you launched and troubleshooted the creation of an Amazon EC2 instance configured as a LAMP stack web server (Linux, Apache, MariaDB, PHP) using the AWS Command Line Interface (CLI).
+In this lab, I launched and troubleshooted the creation of an Amazon EC2 instance configured as a LAMP stack web server (Linux, Apache, MariaDB, PHP) using the AWS Command Line Interface (CLI).
 You debugged issues with AWS CLI commands, security group configurations, and user-data automation scripts to successfully deploy the Café Web Application, complete with a functioning website and database backend.
 
 🎯 Objectives & Learning Outcomes
