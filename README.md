@@ -76,7 +76,7 @@ http://<public-ip>/cafe
 # Browse menu, place orders, and view order history.
 
 ```
-## *8Screenshots**
+## **Screenshots**
 Screenshot	Description
 CLI Host Terminal	AWS CLI used to run and debug EC2 creation script.
 <img width="1300" height="400" alt="configuration verification" src="https://github.com/user-attachments/assets/776b36ad-98fd-4027-a209-07b91812560d" />
