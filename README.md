@@ -1,3 +1,6 @@
+
+## **Troubleshooting the Creation of an EC2 Instance**
+
 ## **Overview**
 
 In this lab, I launched and troubleshooted the creation of an Amazon EC2 instance configured as a LAMP stack web server (Linux, Apache, MariaDB, PHP) using the AWS Command Line Interface (CLI).
